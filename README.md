@@ -44,9 +44,9 @@ Gメールのタブを固定していたり、タブをたくさん開いてい�
 ---
 
 ## 🛠️ Installation | インストール
+Available now on the [Chrome Web Store](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk)
 
-Coming soon on [Chrome Web Store](#)  
-※ 公開後にリンクを挿入してください
+現在は [Chrome ウェブストア](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk) で公開中です。
 
 Or install manually:
 
