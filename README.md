@@ -1,5 +1,5 @@
 # Gmail Favicon Counter
-
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nndmlfooannjiikoffjpnihnlfjjijnk.svg)](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk)  
 📬 Display unread Gmail count as a favicon badge on each Gmail tab.  
 📬 Gmailタブのファビコンに未読件数を表示します。
 
@@ -44,7 +44,7 @@ Gメールのタブを固定していたり、タブをたくさん開いてい�
 ---
 
 ## 🛠️ Installation | インストール
-Available now on the [Chrome Web Store](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk)
+Available now on the [Chrome Web Store](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk)  
 現在は [Chrome ウェブストア](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk) で公開中です。
 
 Or install manually:
