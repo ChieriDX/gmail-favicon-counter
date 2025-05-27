@@ -1,5 +1,8 @@
 # Gmail Favicon Counter
+[![GitHub release](https://img.shields.io/github/v/release/ChieriDX/gmail-favicon-counter.svg)](https://github.com/ChieriDX/gmail-favicon-counter/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nndmlfooannjiikoffjpnihnlfjjijnk.svg)](https://chromewebstore.google.com/detail/gmail-favicon-counter/nndmlfooannjiikoffjpnihnlfjjijnk)  
+
 📬 Display unread Gmail count as a favicon badge on each Gmail tab.  
 📬 Gmailタブのファビコンに未読件数を表示します。
 
